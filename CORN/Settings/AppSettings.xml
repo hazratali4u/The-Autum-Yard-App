@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Server>192.168.18.221</Server>
+  <DBName>CafeClient</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>fast1234</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+  <!--<Server>FS-DEV-I5\MSSQLSERVER2012</Server>
+  <DBName>dbBait</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>fast1234</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>-->
+  
+  <!--<Server>RnW97Du9H8dnggbfL7IfagX6nSqGriZZPA/1OOU8jXs=</Server>
+  <DBName>2RVj/qOzvRuVx87TUtx62Q==</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>fast1234</DBPassword>
+  <DBAuthentication>Windows</DBAuthentication>-->
+
+
+  <!--<Server>db2.fastservices.pk</Server>
+  <DBName>TL</DBName>
+  <DBUser>sa</DBUser>
+  <DBPassword>F@st!@#$</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>-->
+</AppSettings>
